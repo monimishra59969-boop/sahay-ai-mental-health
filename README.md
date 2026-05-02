@@ -1,2 +1,3 @@
 # sahay-ai-mental-health
 AI-power mental health assistant build during hackathon by team agentic synapse. provides emotion support ,guidance ,and wellbeing insights.
+Sahay ek AI mental health app hai jo raat 2:17 AM pe hone wali emotional crisis ko handle karta hai. User chat me "marna hai" type kare to app Gemini se mood detect karke PANIC identify karta hai. Phir DND auto ON hota hai, 90 sec timer lagta hai, aur 14416 pe auto call lagta hai. Distress me counselor chat + breathing exercise. Normal me self-help tips. Fun elements: Sahay Buddy mascot + Calm Coins. Purpose: Helpline nahi, Hope line banana. Tech: Flutter + Gemini API + DND + url_launcher. Impact: Suicide prevention + 24x7 support bina judgement ke.
